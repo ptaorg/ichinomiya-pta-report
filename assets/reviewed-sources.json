@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "sw-2310133-file-3296804",
+    "title": "学校ガイド学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310133/download/document/3296804",
+    "subjectSchoolIds": [
+      "2310133"
+    ],
+    "fiscalYear": null,
+    "summary": "学校ガイド学校徴収金：前回はPDF第1ページの表示確認を記録。具体的な記載事実の転記が不足しており、本版では金額・加入要件・委託範囲の根拠に用いない。",
+    "verification": {
+      "status": "historical_display_only",
+      "checkedAt": "2026-11-02",
+      "method": "historical_display_record_classification_review",
+      "locator": "旧記録はPDF第1ページの表示確認のみ。具体的な本文記載・指定箇所の確認記録は不足。",
+      "legacyDisplayRecord": {
+        "checkedAt": "2026-11-01",
+        "method": "browser_pdf_visual_review_on_20261101",
+        "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+      }
+    },
+    "listingYears": [
+      2024
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "第1ページを表示確認したという引継ぎ記録のみ。具体的な行為の転記は未完了。"
+      ],
+      "unknowns": [
+        "本文の具体的記載、発行日・対象年度、会費又は加入の取扱い。原本再取得が必要。",
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。",
+        "ユーザー指定の「PTAの委託による集金」の具体文言・箇所は今回未再確認。現段階で原文引用を追加しない。"
+      ],
+      "evidenceBasis": "旧表示確認記録のみを保持。具体的本文記載の確認済み資料には分類せず、個別の法的評価の根拠に用いない。",
+      "descriptionStatus": "record_insufficient",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。",
+      "listingMetadata": {
+        "publishedDate": "2024-05-17",
+        "updatedDate": "2024-05-17",
+        "basis": "保存済み公式2024年度配布文書一覧の本文・3296804へのリンクを照合。本文の発行日とは別。"
+      },
+      "latestOriginalCheck": {
+        "attemptedAt": "2026-11-02",
+        "outcome": "not_retrieved",
+        "note": "今回の本文再取得・画像保存は未了。前回の表示確認記録と区別する。"
+      }
+    }
+  },
+  {
+    "id": "sw-2310135-file-3298050",
+    "title": "学校の集金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310135/download/document/3298050",
+    "subjectSchoolIds": [
+      "2310135"
+    ],
+    "fiscalYear": null,
+    "summary": "学校の集金：前回はPDF第1ページの表示確認を記録。具体的な記載事実の転記が不足しており、本版では金額・加入要件・委託範囲の根拠に用いない。",
+    "verification": {
+      "status": "historical_display_only",
+      "checkedAt": "2026-11-02",
+      "method": "historical_display_record_classification_review",
+      "locator": "旧記録はPDF第1ページの表示確認のみ。具体的な本文記載・指定箇所の確認記録は不足。",
+      "legacyDisplayRecord": {
+        "checkedAt": "2026-11-01",
+        "method": "browser_pdf_visual_review_on_20261101",
+        "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+      }
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "第1ページを表示確認したという引継ぎ記録のみ。具体的な行為の転記は未完了。"
+      ],
+      "unknowns": [
+        "本文の具体的記載、発行日・対象年度、会費又は加入の取扱い。原本再取得が必要。",
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "旧表示確認記録のみを保持。具体的本文記載の確認済み資料には分類せず、個別の法的評価の根拠に用いない。",
+      "descriptionStatus": "record_insufficient",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310136-article-91375814",
+    "title": "1月31日(金) PTA活動について【PTA会長さんより】",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310136/weblog/91375814",
+    "subjectSchoolIds": [
+      "2310136"
+    ],
+    "fiscalYear": 2024,
+    "summary": "2025年1月31日の入学説明会で任意加入と全員への加入希望を説明した旨、PTA会長又は学校教頭を窓口とする旨を記載。勧誘の紹介だけで加入強制は認定しない。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_rendered_official_article",
+      "locator": "記事の公開日・更新日、本文の任意加入、みなさんに入っていただきたい旨、教頭窓口を確認。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2025-01-31",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "2025年1月31日の入学説明会で任意加入と全員への加入希望を説明した旨、PTA会長又は学校教頭を窓口とする旨を記載。勧誘の紹介だけで加入強制は認定しない。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2310138-file-3300066",
+    "title": "４．学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310138/download/document/3300066",
+    "subjectSchoolIds": [
+      "2310138"
+    ],
+    "fiscalYear": 2026,
+    "summary": "PTA規約に基づく会費を、PTAの委託により学校が集金すると説明。学校徴収金の案内に他の費目とともに掲載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA規約に基づく会費を、PTAの委託により学校が集金すると説明。学校徴収金の案内に他の費目とともに掲載。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "保存済み原本確認報告の中島小・2026年度内容、台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2310145-file-3305272",
+    "title": "学校納入金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310145/download/document/3305272",
+    "subjectSchoolIds": [
+      "2310145"
+    ],
+    "fiscalYear": null,
+    "summary": "PTA会費年1,500円を5月・10月に集金する案内。学校徴収の項目に会費と委託による集金を記載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA会費年1,500円を5月・10月に集金する案内。学校徴収の項目に会費と委託による集金を記載。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "前回の西成小比較事例・各PDF第1ページの確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310145-file-3305514",
+    "title": "PTA",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310145/download/document/3305514",
+    "subjectSchoolIds": [
+      "2310145"
+    ],
+    "fiscalYear": 2023,
+    "summary": "旧PTA案内は会員を保護者・教職員全員と説明し、令和5年度予定の活動表を掲載。現在の加入手続を示すものではない。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [
+      2024
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "旧PTA案内は会員を保護者・教職員全員と説明し、令和5年度予定の活動表を掲載。現在の加入手続を示すものではない。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "前回の西成小比較事例・第1ページの会員説明と令和5年度予定表。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2310150-file-3310539",
+    "title": "ＰＴＡ規約改正について",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310150/download/document/3310539",
+    "subjectSchoolIds": [
+      "2310150"
+    ],
+    "fiscalYear": null,
+    "summary": "ＰＴＡ規約改正について：前回はPDF第1ページの表示確認を記録。具体的な記載事実の転記が不足しており、本版では金額・加入要件・委託範囲の根拠に用いない。",
+    "verification": {
+      "status": "historical_display_only",
+      "checkedAt": "2026-11-02",
+      "method": "historical_display_record_classification_review",
+      "locator": "旧記録はPDF第1ページの表示確認のみ。具体的な本文記載・指定箇所の確認記録は不足。",
+      "legacyDisplayRecord": {
+        "checkedAt": "2026-11-01",
+        "method": "browser_pdf_visual_review_on_20261101",
+        "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+      }
+    },
+    "listingYears": [
+      2020
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "第1ページを表示確認したという引継ぎ記録のみ。具体的な行為の転記は未完了。"
+      ],
+      "unknowns": [
+        "本文の具体的記載、発行日・対象年度、会費又は加入の取扱い。原本再取得が必要。",
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "旧表示確認記録のみを保持。具体的本文記載の確認済み資料には分類せず、個別の法的評価の根拠に用いない。",
+      "descriptionStatus": "record_insufficient",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310151-file-18540234",
+    "title": "浅井北小学校ガイド(学校徴収金)",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310151/download/document/18540234",
+    "subjectSchoolIds": [
+      "2310151"
+    ],
+    "fiscalYear": null,
+    "summary": "浅井北小学校ガイド(学校徴収金)：前回はPDF第1ページの表示確認を記録。具体的な記載事実の転記が不足しており、本版では金額・加入要件・委託範囲の根拠に用いない。",
+    "verification": {
+      "status": "historical_display_only",
+      "checkedAt": "2026-11-02",
+      "method": "historical_display_record_classification_review",
+      "locator": "旧記録はPDF第1ページの表示確認のみ。具体的な本文記載・指定箇所の確認記録は不足。",
+      "legacyDisplayRecord": {
+        "checkedAt": "2026-11-01",
+        "method": "browser_pdf_visual_review_on_20261101",
+        "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+      }
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "第1ページを表示確認したという引継ぎ記録のみ。具体的な行為の転記は未完了。"
+      ],
+      "unknowns": [
+        "本文の具体的記載、発行日・対象年度、会費又は加入の取扱い。原本再取得が必要。",
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "旧表示確認記録のみを保持。具体的本文記載の確認済み資料には分類せず、個別の法的評価の根拠に用いない。",
+      "descriptionStatus": "record_insufficient",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310155-file-12294769",
+    "title": "５　学校の集金について",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310155/download/document/12294769",
+    "subjectSchoolIds": [
+      "2310155"
+    ],
+    "fiscalYear": 2026,
+    "summary": "学校徴収金の項目にPTA会費を含め、PTAの委託による学校集金を説明。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校徴収金の項目にPTA会費を含め、PTAの委託による学校集金を説明。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "保存済み原本確認報告の萩原小・2026年度内容、台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2310157-file-3317788",
+    "title": "4-2学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310157/download/document/3317788",
+    "subjectSchoolIds": [
+      "2310157"
+    ],
+    "fiscalYear": null,
+    "summary": "学校徴収金の案内としてPTAの委託による学校集金が報告されている。本文年度と掲載年度2020を同一視しない。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [
+      2020
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "学校徴収金の案内としてPTAの委託による学校集金が報告されている。本文年度と掲載年度2020を同一視しない。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "前調査第4回の確認報告を照合。台帳は第1ページ確認を継承。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310157-file-3317796",
+    "title": "6-2PTA",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310157/download/document/3317796",
+    "subjectSchoolIds": [
+      "2310157"
+    ],
+    "fiscalYear": null,
+    "summary": "PTA組織欄に、校長を含む副会長、職員を含む書記・会計・会計監査の構成を記載。掲載年度は2021、現在の役割は未確認。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [
+      2021
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "PTA組織欄に、校長を含む副会長、職員を含む書記・会計・会計監査の構成を記載。掲載年度は2021、現在の役割は未確認。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "前回の千秋南小職員役割事例・第1ページPTA組織欄。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310160-file-18294726",
+    "title": "学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310160/download/document/18294726",
+    "subjectSchoolIds": [
+      "2310160"
+    ],
+    "fiscalYear": 2026,
+    "summary": "学校の口座振替案内にPTA会費を含め、委託による集金と説明。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校の口座振替案内にPTA会費を含め、委託による集金と説明。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "保存済み原本確認報告の葉栗北小・2026年度内容、前回会費徴収事例の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2310164-file-12742376",
+    "title": "４．学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310164/download/document/12742376",
+    "subjectSchoolIds": [
+      "2310164"
+    ],
+    "fiscalYear": 2025,
+    "summary": "PTA規約に基づく会費を、PTAの委託により学校が集金すると説明。給食費・学年費等と同じ案内に掲載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA規約に基づく会費を、PTAの委託により学校が集金すると説明。給食費・学年費等と同じ案内に掲載。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "保存済み原本確認報告の起小・2025年度案内、台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2310165-file-18407800",
+    "title": "４．学校徴収金三条小",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310165/download/document/18407800",
+    "subjectSchoolIds": [
+      "2310165"
+    ],
+    "fiscalYear": null,
+    "summary": "学校徴収金の案内に父母教師会費と委託による集金を記載。団体名称がPTAではなく父母教師会である点を区別する。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校徴収金の案内に父母教師会費と委託による集金を記載。団体名称がPTAではなく父母教師会である点を区別する。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "前回の会費徴収事例・第1ページの徴収項目と父母教師会費欄。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310166-file-3325992",
+    "title": "学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310166/download/document/3325992",
+    "subjectSchoolIds": [
+      "2310166"
+    ],
+    "fiscalYear": null,
+    "summary": "PTA会費を学校徴収金に含め、PTAの委託による学校集金を説明。保存済み報告では年度表示は未確認。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA会費を学校徴収金に含め、PTAの委託による学校集金を説明。保存済み報告では年度表示は未確認。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "保存済み原本確認報告の小信中島小・年度表示のない案内、台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2310168-file-18269347",
+    "title": "４．学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310168/download/document/18269347",
+    "subjectSchoolIds": [
+      "2310168"
+    ],
+    "fiscalYear": 2026,
+    "summary": "PTA会費の委託による学校集金を説明する2026年度内容の案内。2025年度の別文書とは区別する。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA会費の委託による学校集金を説明する2026年度内容の案内。2025年度の別文書とは区別する。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "保存済み原本確認報告の朝日西小・2026年度案内、台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2310170-file-18289620",
+    "title": "学校徴収金(小）大徳小",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2310170/download/document/18289620",
+    "subjectSchoolIds": [
+      "2310170"
+    ],
+    "fiscalYear": 2026,
+    "summary": "PTA会費の委託による学校集金と、学校の口座振替を説明。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA会費の委託による学校集金と、学校の口座振替を説明。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "保存済み原本確認報告の大徳小・2026年度案内、台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2320069-file-12282993",
+    "title": "R8.学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320069/download/document/12282993",
+    "subjectSchoolIds": [
+      "2320069"
+    ],
+    "fiscalYear": null,
+    "summary": "PTA規約に基づく会費でありPTAの委託により集金すると説明し、口座振替方法を掲載。資料名のR8と過去の年度記録に不整合があり、対象年度は保留。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA規約に基づく会費でありPTAの委託により集金すると説明し、口座振替方法を掲載。資料名のR8と過去の年度記録に不整合があり、対象年度は保留。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "前調査第4回の萩原中確認報告と台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2320070-file-18237126",
+    "title": "令和７年度PTA臨時総会（書面開催）案内・要項・議案書web掲載用",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320070/download/document/18237126",
+    "subjectSchoolIds": [
+      "2320070"
+    ],
+    "fiscalYear": 2025,
+    "summary": "2026年2月の2025年度PTA臨時総会案内は、月額会費150円から125円への変更と学級委員廃止を提案。Googleフォームで回答し未回答を承認扱いと説明したと保存報告に記録。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [
+      2025
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2026-02-02",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "2026年2月の2025年度PTA臨時総会案内は、月額会費150円から125円への変更と学級委員廃止を提案。Googleフォームで回答し未回答を承認扱いと説明したと保存報告に記録。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "前回の会費改定事例・第1ページ、保存済み報告の2026年2月2日付案内。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2320070-file-18245497",
+    "title": "令和７年度PTA臨時総会（書面総会）結果のお知らせ",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320070/download/document/18245497",
+    "subjectSchoolIds": [
+      "2320070"
+    ],
+    "fiscalYear": 2025,
+    "summary": "2025年度PTA臨時総会の結果通知は、会費改定を全会一致、学級委員廃止を賛成多数で承認し、2026年度から実施すると説明。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [
+      2025
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2026-02-27",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "2025年度PTA臨時総会の結果通知は、会費改定を全会一致、学級委員廃止を賛成多数で承認し、2026年度から実施すると説明。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "前回の会費改定事例・第1ページ、保存済み報告の2026年2月27日付結果通知。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2320073-file-18279818",
+    "title": "学校徴収金",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320073/download/document/18279818",
+    "subjectSchoolIds": [
+      "2320073"
+    ],
+    "fiscalYear": null,
+    "summary": "学校徴収金の案内で、PTAの委託による学校集金を説明すると前調査第4回に報告。徴収・会員照合・支出担当の実態までは未確認。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校徴収金の案内で、PTAの委託による学校集金を説明すると前調査第4回に報告。徴収・会員照合・支出担当の実態までは未確認。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "前調査第4回の尾西第一中確認報告と台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2320073-file-18284296",
+    "title": "第2学年通信 No.1 百花繚乱（2026年4月9日）",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320073/download/document/18284296",
+    "subjectSchoolIds": [
+      "2320073"
+    ],
+    "fiscalYear": 2026,
+    "summary": "学校の提出書類にPTA総会出欠票を含め、PTA総会・学年PTA資料を後日tetoruで配信する予定と記載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review",
+      "locator": "全1ページ。持ち物と提出物欄、右下のPTA総会・学年PTA資料のtetoru配信予定を表示確認。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2026-04-09",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校の提出書類にPTA総会出欠票を含め、PTA総会・学年PTA資料を後日tetoruで配信する予定と記載。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2320074-file-3340530",
+    "title": "４．学校徴収金(中)",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320074/download/document/3340530",
+    "subjectSchoolIds": [
+      "2320074"
+    ],
+    "fiscalYear": null,
+    "summary": "学校徴収金の案内で、PTAの委託による学校集金を説明すると前調査第4回に報告。委任契約書そのものの確認ではない。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページの表示本文。全文照合の完了を意味しない。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校徴収金の案内で、PTAの委託による学校集金を説明すると前調査第4回に報告。委任契約書そのものの確認ではない。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "前調査第4回の尾西第二中確認報告と台帳の第1ページ確認記録。 今回は本文を再取得していない。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文対象年度未確定。掲載年度やURLのtm値から補完しない。"
+    }
+  },
+  {
+    "id": "sw-2320076-file-3341197",
+    "title": "令和5年度 PTA総会開催（書面決議）について",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320076/download/document/3341197",
+    "subjectSchoolIds": [
+      "2320076"
+    ],
+    "fiscalYear": 2023,
+    "summary": "PTA会長・校長連名の書面決議案内。議決書は2023年4月28日までに子どもの学級担任へ提出し、兄弟姉妹がいる場合は上の学年の担任へ提出する旨を記載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF第1ページ（全1ページ）の書面決議説明・提出期限・提出先。"
+    },
+    "listingYears": [
+      2023
+    ],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "発行日の個別確認記録なし。掲載・更新日と混同しない。",
+      "listingYearStatus": "掲載年の保存記録あり。本文年度とは別。",
+      "facts": [
+        "PTA会長・校長連名の書面決議案内。議決書は2023年4月28日までに子どもの学級担任へ提出し、兄弟姉妹がいる場合は上の学年の担任へ提出する旨を記載。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "url-220fef46080b58c7",
+    "title": "教育文化部の定期監査及び行政監査結果報告（2020年3月2日）",
+    "canonicalUrl": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/013/146/01kouhyou8.pdf",
+    "subjectSchoolIds": [],
+    "fiscalYear": 2019,
+    "summary": "PTA会費を含む私費会計の教職員による出納取扱いと、市の管理責任を理由に監査対象とした旨を記載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "official_source_text_read",
+      "locator": "PDF第2〜3ページ、監査対象・重点項目（4）。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2020-03-02",
+      "publishedDateStatus": "公表資料・保存済み確認記録による。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA会費を含む私費会計の教職員による出納取扱いと、市の管理責任を理由に監査対象とした旨を記載。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "監査対象の年度。個別校・他年度の適法性認定ではない。"
+    }
+  },
+  {
+    "id": "url-811302c0a8a62e34",
+    "title": "学校関係団体が実施する事業に係る兼職兼業等の取扱い及び学校における会計処理の適正化について（2012年5月9日）",
+    "canonicalUrl": "https://www.mext.go.jp/content/20221011-mxt_syoto01_02.pdf",
+    "subjectSchoolIds": [],
+    "fiscalYear": null,
+    "summary": "学校設置者の負担、割当的徴収の禁止、自発的寄附の適正な受納、会計区分を扱う通知。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "official_source_text_read",
+      "locator": "PDF第2〜3ページ、留意事項1・2。調査対象の高校等と一般の留意事項の射程を区別。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2012-05-09",
+      "publishedDateStatus": "公表資料・保存済み確認記録による。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校設置者の負担、割当的徴収の禁止、自発的寄附の適正な受納、会計区分を扱う通知。"
+      ],
+      "unknowns": [
+        "この資料だけで個別校の権限・現行運用・適法性を認定しない。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "学校の単年度資料ではないため対象年度を設定しない。"
+    }
+  },
+  {
+    "id": "url-a51b8774d831150d",
+    "title": "公立学校とPTAの間で個人情報のやり取りをするためのポイント（2026年3月）",
+    "canonicalUrl": "https://www.ppc.go.jp/files/pdf/202603_school_pta_pd_point.pdf",
+    "subjectSchoolIds": [],
+    "fiscalYear": null,
+    "summary": "学校の所掌事務・利用目的・提供の要件、委託と単なる提供、公的規律における同意の整理。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "official_source_text_read",
+      "locator": "冊子p.3、5〜11。学校側の公的規律を確認。PTA側はp.12以降。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2026-03",
+      "publishedDateStatus": "公表資料・保存済み確認記録による。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "学校の所掌事務・利用目的・提供の要件、委託と単なる提供、公的規律における同意の整理。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "学校の単年度資料ではないため対象年度を設定しない。"
+    }
+  },
+  {
+    "id": "url-de8d15bf07ff8270",
+    "title": "教育部の定期監査及び行政監査結果報告（2024年2月22日）",
+    "canonicalUrl": "https://www.city.ichinomiya.aichi.jp/_res/projects/default_project/_page_/001/013/146/5kouhyou10.pdf",
+    "subjectSchoolIds": [],
+    "fiscalYear": 2023,
+    "summary": "対象校・学校徴収金の範囲・管理点検体制に関する監査。現時点のカードでは対象範囲の記載だけを使用。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "official_source_text_read",
+      "locator": "PDF第2〜3ページ、対象10校と学校徴収金の定義。個別留意事項の全文照合は別工程。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2024-02-22",
+      "publishedDateStatus": "公表資料・保存済み確認記録による。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "対象校・学校徴収金の範囲・管理点検体制に関する監査。現時点のカードでは対象範囲の記載だけを使用。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "監査対象の年度。個別校・他年度の適法性認定ではない。"
+    }
+  },
+  {
+    "id": "url-f089eec5089652c1",
+    "title": "公立小・中学校のウェブサイト（一宮市・2026年3月3日更新）",
+    "canonicalUrl": "https://www.city.ichinomiya.aichi.jp/shisei/shingikai/1009998/1001591.html",
+    "subjectSchoolIds": [],
+    "fiscalYear": null,
+    "summary": "調査母集団61校の名称と公式サイトを照合するための市公式一覧。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "official_source_text_read",
+      "locator": "公立小学校42校・公立中学校19校のリンク一覧。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": null,
+      "publishedDateStatus": "資料名・保存済み確認記録による。市の学校一覧は2026年3月3日更新（発行日とは別）。",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "調査母集団61校の名称と公式サイトを照合するための市公式一覧。"
+      ],
+      "unknowns": [
+        "この資料だけで個別校の権限・現行運用・適法性を認定しない。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "学校の単年度資料ではないため対象年度を設定しない。"
+    }
+  },
+  {
+    "id": "sw-2320065-file-10931324",
+    "title": "「tetoru」を活用したメール配信について（2025年4月9日）",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320065/download/document/10931324",
+    "subjectSchoolIds": [
+      "2320065"
+    ],
+    "fiscalYear": 2025,
+    "summary": "PTA会長・校長の連名で学校保護者連絡ツールへの登録を依頼。第2ページはPTA総会・公開授業案内の配信予定と学校教頭の問い合わせ先を記載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "PDF全2ページをブラウザ表示で確認。第1ページの発行日・発行名義・登録依頼、第2ページ「3 今後の予定」と問い合わせ欄。PDFバイト列は未保存。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2025-04-09",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "PTA会長・校長の連名で学校保護者連絡ツールへの登録を依頼。第2ページはPTA総会・公開授業案内の配信予定と学校教頭の問い合わせ先を記載。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2320059-article-134803097",
+    "title": "PTA・協力会総会、学年保護者会、公開授業のご案内【4/11配信内容】",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320059/weblog/134803097",
+    "subjectSchoolIds": [
+      "2320059"
+    ],
+    "fiscalYear": 2026,
+    "summary": "2026年4月15日の記事は、PTA・協力会総会、学年保護者会、公開授業を4月11日にtetoruで案内した旨を記載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_rendered_html_review",
+      "locator": "HTML記事本文の冒頭・開催日程・配信文書リンク。ブラウザで表示確認。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2026-04-15",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "2026年4月15日の記事は、PTA・協力会総会、学年保護者会、公開授業を4月11日にtetoruで案内した旨を記載。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2320066-file-3336360",
+    "title": "PTA関係のお願いとお知らせ（2023年4月7日）",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320066/download/document/3336360",
+    "subjectSchoolIds": [
+      "2320066"
+    ],
+    "fiscalYear": 2023,
+    "summary": "書面開催・フォーム決議のPTA総会を案内。4月20日に質問回答と決議用URLをtetoru配信、4月21日にtetoruと書面で結果報告の予定。tetoru登録家庭には4月20～21日の書面配付なしと記載。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_previous_turn",
+      "locator": "全1ページ。3 PTA総会、質問回答・決議URL・結果報告のtetoru配信予定、紙配付との区分を確認。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2023-04-07",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "書面開催・フォーム決議のPTA総会を案内。4月20日に質問回答と決議用URLをtetoru配信、4月21日にtetoruと書面で結果報告の予定。tetoru登録家庭には4月20～21日の書面配付なしと記載。"
+      ],
+      "unknowns": [
+        "現行規約・適用時点、実際の回答・会員照合・職員の処理権限。"
+      ],
+      "evidenceBasis": "2026年11月1日までの本文指定箇所確認記録を引継ぎ。今回の本文再取得とは区別する。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。"
+    }
+  },
+  {
+    "id": "sw-2320066-file-3336365",
+    "title": "集金（1年生）の内訳について（2023年4月12日）",
+    "canonicalUrl": "https://ichinomiya.schoolweb.ne.jp/2320066/download/document/3336365",
+    "subjectSchoolIds": [
+      "2320066"
+    ],
+    "fiscalYear": 2023,
+    "summary": "1年生の集金表にPTA会費を5月・9月各600円で掲載。注記4は、PTA会長と校長が委任契約書を取り交わして支出を進め、PTA総会で会計報告すると説明。契約書原本を確認したものではない。",
+    "verification": {
+      "status": "content_verified",
+      "checkedAt": "2026-11-01",
+      "method": "browser_pdf_visual_review_on_20261101",
+      "locator": "全3ページのうち第1ページ。2023年4月12日付・1年生集金表のPTA会費欄、下部注記4を表示確認。第2・3ページは未確認。"
+    },
+    "listingYears": [],
+    "evidenceQuality": {
+      "editedAt": "2026-11-02",
+      "publishedDate": "2023-04-12",
+      "publishedDateStatus": "本文又は保存済み本文確認記録で確認",
+      "listingYearStatus": "掲載年度の記録なし。未確認として表示。",
+      "facts": [
+        "1年生の集金表にPTA会費を5月・9月各600円で掲載。注記4は、PTA会長と校長が委任契約書を取り交わして支出を進め、PTA総会で会計報告すると説明。契約書原本を確認したものではない。"
+      ],
+      "unknowns": [
+        "当時の受託根拠、受任主体・契約締結権限、学校口座の名義と資金移動、担当者、加入意思確認・非会員除外、利用目的・情報アクセス。",
+        "委任契約書本体、締結日・内容・署名者の地位、決裁・勤務上の取扱い、第2・3ページの内容、支出実績。"
+      ],
+      "evidenceBasis": "2026年11月1日にブラウザPDF表示で第1ページの集金表と注記4を実確認。",
+      "descriptionStatus": "specific",
+      "fiscalYearStatus": "本文又は保存済み確認記録による対象年度。発行年・掲載年度とは区別。",
+      "latestOriginalCheck": {
+        "attemptedAt": "2026-11-02",
+        "outcome": "not_retrieved",
+        "note": "今回の本文再取得・画像保存は未了。前回の表示確認記録と区別する。"
+      }
+    }
+  }
+]
